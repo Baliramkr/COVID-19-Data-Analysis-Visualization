@@ -1,3 +1,8 @@
+## 🚀 Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo-name>/blob/main/notebooks/covid_analysis.ipynb)
+
+
 # COVID-19 Data Analysis & Visualization
 
 ## 📌 Overview
